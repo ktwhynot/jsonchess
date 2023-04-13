@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jsonchess/static/css/main.5846cc22.css",
+    "main.js": "/jsonchess/static/js/main.a5266be8.js",
+    "static/js/787.1f7dd1a5.chunk.js": "/jsonchess/static/js/787.1f7dd1a5.chunk.js",
+    "static/media/logo.svg": "/jsonchess/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Chess_rdt45.svg": "/jsonchess/static/media/Chess_rdt45.fdc575582c2cbe2ec82093702945226f.svg",
+    "static/media/Chess_ndt45.svg": "/jsonchess/static/media/Chess_ndt45.7930be9e07b51bc0e069b1d77e31261a.svg",
+    "static/media/Chess_kdt45.svg": "/jsonchess/static/media/Chess_kdt45.6c8cc8fabe5215cc854dec67ee7781fd.svg",
+    "static/media/Chess_qdt45.svg": "/jsonchess/static/media/Chess_qdt45.cf388bf415c0d33ec16f23593b8d0d91.svg",
+    "static/media/Chess_nlt45.svg": "/jsonchess/static/media/Chess_nlt45.d47944d2cee4f8c707d1907706c142fa.svg",
+    "static/media/Chess_bdt45.svg": "/jsonchess/static/media/Chess_bdt45.04932f63ef10dcdee115b649286230f5.svg",
+    "static/media/Chess_blt45.svg": "/jsonchess/static/media/Chess_blt45.aa411d5809c6380713b4312d55aafc53.svg",
+    "static/media/Chess_rlt45.svg": "/jsonchess/static/media/Chess_rlt45.9e48b84f189eea24339f8a679e7a664f.svg",
+    "static/media/Chess_qlt45.svg": "/jsonchess/static/media/Chess_qlt45.7a1aecff0f22ff68c43f9b7f8a81d0b4.svg",
+    "static/media/Chess_pdt45.svg": "/jsonchess/static/media/Chess_pdt45.be5d44ca5ee868885d216188996e3a00.svg",
+    "static/media/Chess_plt45.svg": "/jsonchess/static/media/Chess_plt45.50273cc6d86861932d0a01c38274009a.svg",
+    "index.html": "/jsonchess/index.html",
+    "static/media/Chess_klt45.svg": "/jsonchess/static/media/Chess_klt45.5d58f1999749c1b5ef5bc1699c38b2f7.svg",
+    "main.5846cc22.css.map": "/jsonchess/static/css/main.5846cc22.css.map",
+    "main.a5266be8.js.map": "/jsonchess/static/js/main.a5266be8.js.map",
+    "787.1f7dd1a5.chunk.js.map": "/jsonchess/static/js/787.1f7dd1a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5846cc22.css",
+    "static/js/main.a5266be8.js"
+  ]
+}
