@@ -4,7 +4,7 @@ A simple react app that allows you to create chess board layouts, and export or 
 
 # Usage
 
-[Available Here]("ktwhynot.github.io/jsonchess")
+[Available Here]("https://ktwhynot.github.io/jsonchess")
 
 Click a piece to select it, then click a tile to move the selected piece to that tile. 
 
