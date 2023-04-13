@@ -36,3 +36,87 @@
     transform: rotate(360deg);
   }
 }
+
+.Buttons{
+  margin: 5px 0;
+}
+
+.Buttons button{
+  margin: 0 5px;
+  height: 30px;
+}
+
+.Board{
+  height: 430px;
+  margin: 10px auto;
+  display: inline-block;
+}
+
+.Palet{
+  width: 100px;
+  height: 400px;
+  float: left;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.PaletCol{
+  width: 50px;
+  height: 300px;
+  float: left;
+}
+
+.Grid{
+  float: left;
+}
+
+.GridRow{
+  height: 50px;
+}
+
+.Ruler{
+  font-weight: bold;
+}
+
+.BottomRuler{
+  margin-left: 21px;
+  height: 31px;
+}
+
+.gridRulerY{
+  float: left;
+  height: 50px;
+  width: 21px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.gridRulerX{
+  float: left;
+  width: 50px;
+  text-align: center;
+}
+
+.Tile{
+  height: 50px;
+  width: 50px;
+  float: left;
+  background-color: #d5ccbb;
+  color: black;
+  font-size: 12px;
+  user-select: none;
+}
+
+.Tile:hover{
+  background-color: #ecef3287;
+}
+
+.Active{
+  box-sizing: border-box;
+  border: 3px solid rgba(255, 255, 0, 0.685);
+}
+
+.Black{
+  background-color: #745742;
+  color: white;
+}
